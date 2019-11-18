@@ -129,6 +129,12 @@ TEST(StackNonCopy, test3){
     one.second = true;
     my_stack.push_emplace(one);
 
-    EXPECT_EQ(my_stack.head(),one);
+    std::pair <std::string, int> second;
+    second.first = "key";
+    second.second = true;
+    my_stack.push_emplace(second);
+    EXPECT_EQ(my_stack.head(), second);
+    EXPECT_EQ(my_stack.pop(), second);
+    EXPECT_EQ(my_stack.head(), one);
 
 }
