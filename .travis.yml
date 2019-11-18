@@ -5,7 +5,7 @@ services:
   - docker
 
 before_script:
-  - docker pull $DOCKER_IMAGE
+  - docker pull toliak/bootstrap-cpp
 
 jobs:
   include:
