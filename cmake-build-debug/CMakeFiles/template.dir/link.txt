@@ -1,0 +1,2 @@
+D:\MinGWx64\mingw32\bin\ar.exe qc libtemplated.a  CMakeFiles/template.dir/sources/source.cpp.obj CMakeFiles/template.dir/main.cpp.obj
+D:\MinGWx64\mingw32\bin\ranlib.exe libtemplated.a

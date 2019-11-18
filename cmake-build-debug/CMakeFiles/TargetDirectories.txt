@@ -1,0 +1,5 @@
+D:/New_Folder/lab-05-stack/cmake-build-debug/CMakeFiles/template.dir
+D:/New_Folder/lab-05-stack/cmake-build-debug/CMakeFiles/tests.dir
+D:/New_Folder/lab-05-stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/New_Folder/lab-05-stack/cmake-build-debug/CMakeFiles/test.dir
+D:/New_Folder/lab-05-stack/cmake-build-debug/CMakeFiles/edit_cache.dir

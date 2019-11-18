@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/header.hpp
+stdexcept
+-
+
+../include/stack.h
+header.hpp
+../include/header.hpp
+
+../include/stacknoncopy.h
+header.hpp
+../include/header.hpp
+
+D:/New_Folder/lab-05-stack/main.cpp
+header.hpp
+D:/New_Folder/lab-05-stack/header.hpp
+stack.h
+D:/New_Folder/lab-05-stack/stack.h
+stacknoncopy.h
+D:/New_Folder/lab-05-stack/stacknoncopy.h
+
+D:/New_Folder/lab-05-stack/sources/source.cpp
+header.hpp
+-
+

@@ -1,0 +1,2 @@
+D:/New_Folder/lab-05-stack/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/edit_cache.dir
+D:/New_Folder/lab-05-stack/cmake-build-debug/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/rebuild_cache.dir
